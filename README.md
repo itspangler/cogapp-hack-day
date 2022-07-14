@@ -8,6 +8,6 @@ The over 11,000 items in our digital collections can be queried by a few differe
 
 You can run these notebooks in [Binder](https://mybinder.org), or you can clone the repo and run them locally through something like Anaconda.
 
-- [Accessing collections via JSON API](/json-api.ipynb)
-- [Accessing collections via IIIF API](/iiif-api.ipynb)
-- [Accessing collections via a Python scraper]()
+- [Accessing collections via JSON API](/01_json-api.ipynb)
+- [Accessing collections via IIIF API](/02_iiif-api.ipynb)
+- [Accessing collections via a Python scraper](03_scraper.ipynb)
